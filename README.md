@@ -1,6 +1,7 @@
 
 <h1 align="center">¡Hey 👋! Soy Tiago 👩🏻‍💻</h1>
 <h3 align="center">Misiones , Argentina🌎</h3><br/> 
+![Tiago Navarro](https://media.licdn.com/dms/image/D4D16AQHPY5hmQNPhEA/profile-displaybackgroundimage-shrink_350_1400/0/1686944650114?e=1710979200&v=beta&t=Il_yRv2Dvj00K4103BUDWG9iRB9C5o2oR6sQ8ElSZTM)
 
 <h2>Sobre mi</h2>
 <p>
