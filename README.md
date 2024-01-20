@@ -5,6 +5,7 @@
 <h2>Sobre mi</h2>
 <p>
   Soy una persona a la que le gusta mucho la programacion , Por eso mismo, decidí integrarme en el mundo del Desarrollo y aunque mi formación es como Full Stack, tengo una preferencia hacia el área de Front-End. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.
+  Actualmente estoy aprendiendo Next.js y Astro.
 </p>
 <br/>
 
@@ -16,7 +17,7 @@ const NTiago-s = {
     languages: [ "JavaScript", "TypeScript" ],
     database: ["PostgreSQL"],
     backEnd: [ "NodeJs", "Express", "Sequelize"],
-    frontEnd: [ "React", "Redux", "Hooks", "Tailwind", "Next.Js"]
+    frontEnd: [ "React", "Redux", "Hooks", "Tailwind"]
   },
   contact: {
     email: "navarrotiago194@gmail.com"
