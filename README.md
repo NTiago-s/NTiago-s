@@ -31,9 +31,6 @@ const NTiago-s = {
 
 
 
-<h3 align="center">Soporte:</h3>
-<div align="center">  <p><a href="https://www.buymeacoffee.com/akuma215"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="(https://www.buymeacoffee.com/akuma215)" /></a></p><br><br>
-
 <!--
 **Daiana215/Daiana215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
