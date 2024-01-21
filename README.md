@@ -17,7 +17,7 @@ const NTiago-s = {
     languages: [ "JavaScript", "TypeScript" ],
     database: ["PostgreSQL"],
     backEnd: [ "NodeJs", "Express", "Sequelize"],
-    frontEnd: [ "React", "Redux", "Hooks", "Tailwind"],
+    frontEnd: [ "React", "Redux", "Hooks", "Tailwind" , "Astro"],
     learning: ["Next.js" , "Astro" , "mongoDB", "mongoose" ]
   },
   contact: {
