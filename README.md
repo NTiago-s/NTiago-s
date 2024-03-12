@@ -19,8 +19,8 @@ const NTiago-s = {
   pronouns: 'he'
   code: {
     languages: [ "JavaScript", "TypeScript" ],
-    database: ["PostgreSQL"],
-    backEnd: [ "NodeJs", "Express", "Sequelize", "mongoDB", "mongoose"],
+    database: ["PostgreSQL", "mongoDB"],
+    backEnd: [ "NodeJs", "Express", "Sequelize", "mongoose"],
     frontEnd: [ "React", "Redux", "Hooks", "Tailwind" , "Astro"],
     learning: ["Next.js"]
   },
