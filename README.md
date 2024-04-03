@@ -2,7 +2,7 @@
 <h3 align="center">Misiones, Argentina🌎</h3>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQHPY5hmQNPhEA/profile-displaybackgroundimage-shrink_350_1400/0/1686944650114?e=1710979200&v=beta&t=Il_yRv2Dvj00K4103BUDWG9iRB9C5o2oR6sQ8ElSZTM" alt="Tiago Navarro">
+  <img src="[https://media.licdn.com/dms/image/D4D16AQHPY5hmQNPhEA/profile-displaybackgroundimage-shrink_350_1400/0/1686944650114?e=1710979200&v=beta&t=Il_yRv2Dvj00K4103BUDWG9iRB9C5o2oR6sQ8ElSZTM](https://media.licdn.com/dms/image/D4D16AQHVrr5YkaHqhA/profile-displaybackgroundimage-shrink_350_1400/0/1705788925862?e=1717632000&v=beta&t=9k_in2uIocAOc-axg2cieSU94uaLEvLbSHolAcfF8oE)" alt="Tiago Navarro">
 </p>
 
 <h2>Sobre mí</h2>
