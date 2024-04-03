@@ -2,7 +2,7 @@
 <h3 align="center">Misiones, Argentina🌎</h3>
 
 <p align="center">
-  <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-concepto-de-web-de-l%C3%ADnea-vectorial-para-la-programaci%C3%B3n-banner-web-lineal-para-codificaci%C3%B3n.jpg" alt="Tiago Navarro">
+  <img src="https://img.freepik.com/vector-gratis/pagina-inicio-isometrica-desarrollo-software-plataforma-cruzada-codificacion-sitios-web-o-programas-interfaz-lenguajes-programacion-algoritmos-pantalla-computadora-proceso-tecnologico-creacion-aplicaciones-banner-3d_107791-4329.jpg" alt="Tiago Navarro">
 </p>
 
 <h2>Sobre mí</h2>
