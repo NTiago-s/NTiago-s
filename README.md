@@ -2,7 +2,7 @@
 <h3 align="center">Misiones, Argentina🌎</h3>
 
 <p align="center">
-  <img src="https://img.freepik.com/vector-gratis/pagina-inicio-isometrica-desarrollo-software-plataforma-cruzada-codificacion-sitios-web-o-programas-interfaz-lenguajes-programacion-algoritmos-pantalla-computadora-proceso-tecnologico-creacion-aplicaciones-banner-3d_107791-4329.jpg" alt="Tiago Navarro">
+  <img src="https://img.freepik.com/vector-premium/codificacion-programacion-desarrollo-web-codigo-computadora-banner-futurista-computadora-portatil_3482-5582.jpg" alt="Tiago Navarro">
 </p>
 
 <h2>Sobre mí</h2>
