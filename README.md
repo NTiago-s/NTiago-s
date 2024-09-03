@@ -22,7 +22,7 @@ const NTiago-s = {
     database: ["PostgreSQL", "mongoDB"],
     backEnd: [ "NodeJs", "Express", "Sequelize", "mongoose"],
     frontEnd: [ "React", "Redux", "Hooks", "Tailwind" , "Astro"],
-    learning: ["Next.js"]
+    learning: ["Next.js" , "Nest.js" , "Python"]
   },
   contact: {
     email: "navarrotiago194@gmail.com"
