@@ -36,8 +36,8 @@ const NTiago-s = {
     languages: [ "JavaScript", "TypeScript" ],
     database: ["PostgreSQL", "mongoDB"],
     backEnd: [ "NodeJs", "Express", "Sequelize", "mongoose"],
-    frontEnd: [ "React", "Redux", "Hooks", "Tailwind" , "Astro"],
-    learning: ["Next.js" , "Nest.js" , "Python"]
+    frontEnd: [ "React", "Redux", "Hooks", "Tailwind" , "Astro", "Next.js" ],
+    learning: ["Nest.js" , "Python"]
   },
   contact: {
     email: "navarrotiago194@gmail.com"
@@ -45,7 +45,7 @@ const NTiago-s = {
 };
 ```
 
-<h3 align="left">Conecta conmigo! :</h3>
+<h3 align="left">Conecta conmigo!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tiago-navarro-30bba2291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago-navarro" height="30" width="40" /></a>
 </p>
