@@ -6,9 +6,24 @@
 </p>
 
 <h2>Sobre mí</h2>
-<p>
-  Soy una persona a la que le gusta mucho la programación. Por eso mismo, decidí integrarme en el mundo del Desarrollo y aunque mi formación es como Full Stack, tengo una preferencia hacia el área de Front-End. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.
-</p>
+ <p>
+        Desarrollador Full-Stack con enfoque en crear interfaces atractivas y
+        funcionales para el usuario, enfocado en el rendimiento, la
+        accesibilidad y el SEO.
+      </p>
+      <p>
+        Trabajo con NextJS, Astro, React, NodeJS , JavaScript y TypeScript ,
+        Tailwind, PostgreSQL y MongoDB, entre otras tecnologías.
+      </p>
+      <p>
+        Busco integrarme a un equipo donde pueda seguir creciendo y asumir
+        nuevos desafíos.
+      </p>
+      <p>
+        Si estás buscando a alguien que aporte compromiso, creatividad, enfoque
+        en los detalles y gran resolucion de problemas. <br /> ¡Me encantaría formar
+        parte de tu equipo!
+      </p>
 
 
 <br/>
